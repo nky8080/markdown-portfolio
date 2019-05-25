@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. ringo
+2. mikan
+3. nasi
+
+* apple
+* orange
+* pear
